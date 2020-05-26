@@ -140,3 +140,12 @@ footer p {
 	color: white;
 	text-align: center;
 }
+
+#roundedcorner {
+	text-align: center;
+  	border-radius: 25px;
+  	border: 3px solid #931420;
+  	padding: 20px;
+  	width: 100px;
+  	height: 30px;
+}
